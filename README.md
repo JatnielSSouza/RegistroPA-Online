@@ -1,1 +1,1 @@
-Este é um trabalho acadêmico que faz parte da disciplina obrigatória - Projeto Integrador2 - do curso de graduação superior em Engenharia da Computação da Universidade Virtual do Estado de São Paulo - UNIVESP.
+Projeto Integrador 2 - Engenharia da Computação - UNIVESP.
